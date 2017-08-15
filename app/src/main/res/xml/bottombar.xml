@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <tabs>
+        <tab
+            id="@+id/tab_actors"
+            icon="@drawable/ic_show_person"
+            title="Favorites" />
+        <tab
+            id="@+id/tab_shows"
+            icon="@drawable/ic_show_tv"
+            title="Nearby" />
+    </tabs>
+</PreferenceScreen>
